@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/ini": "^1.3.30",
-    "ini": "^1.3.5",
+    "ini": "^1.3.6",
     "modesl": "^1.2.1",
     "moment": "^2.25.3",
     "mongoose": "^5.9.14",
